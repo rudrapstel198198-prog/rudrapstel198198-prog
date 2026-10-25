@@ -1,5 +1,4 @@
-::: {align="center"}
-# Hi, I'm Akshar Patel 👋
+# Hi, I'm Rudra Patel 👋
 
 ### B.Tech Student \| AI & Data Science \| Aspiring Software Developer
 
@@ -9,7 +8,7 @@ intelligent applications.
 
 ![Profile
 Views](https://komarev.com/ghpvc/?username=akki110&style=flat-square&color=blue)
-:::
+
 
 ------------------------------------------------------------------------
 
@@ -99,13 +98,11 @@ assignments
 
 ## 📊 GitHub Overview
 
-::: {align="center"}
 ![GitHub
 Stats](https://github-readme-stats.vercel.app/api?username=akki110&show_icons=true&hide_border=true&theme=github_dark)
 
 ![Top
 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akki110&layout=compact&hide_border=true&theme=github_dark)
-:::
 
 ## 🤝 Connect With Me
 
@@ -115,7 +112,5 @@ Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akki11
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 *Thanks for visiting my profile! Feel free to explore my repositories
 and follow my learning journey.* ✨
-:::
